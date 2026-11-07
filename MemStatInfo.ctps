@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="MemStatInfo.ppr"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="14"/>
+        <CursorPos X="27" Y="38"/>
+        <UsageCount Value="28"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\MemStatistics\Common\MemStatPlugins.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="54"/>
+        <CursorPos X="31" Y="76"/>
+        <UsageCount Value="28"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ExportedFunctions.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="131"/>
+        <CursorPos X="181" Y="151"/>
+        <UsageCount Value="28"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="27">
+      <Position>
+        <Filename Value="MemStatInfo.ppr"/>
+        <Caret Line="25" Column="39" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="MemStatInfo.ppr"/>
+        <Caret Line="32" Column="26" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="ExportedFunctions.pas"/>
+        <Caret Line="69" Column="37" TopLine="57"/>
+      </Position>
+      <Position>
+        <Filename Value="ExportedFunctions.pas"/>
+        <Caret Line="47" Column="12" TopLine="34"/>
+      </Position>
+      <Position>
+        <Filename Value="ExportedFunctions.pas"/>
+        <Caret Line="187" Column="10" TopLine="161"/>
+      </Position>
+      <Position>
+        <Filename Value="ExportedFunctions.pas"/>
+        <Caret Line="189" Column="12" TopLine="170"/>
+      </Position>
+      <Position>
+        <Filename Value="ExportedFunctions.pas"/>
+        <Caret Line="182" Column="37" TopLine="166"/>
+      </Position>
+      <Position>
+        <Filename Value="ExportedFunctions.pas"/>
+        <Caret Line="183" Column="40" TopLine="172"/>
+      </Position>
+      <Position>
+        <Filename Value="ExportedFunctions.pas"/>
+        <Caret Line="188" Column="25" TopLine="172"/>
+      </Position>
+      <Position>
+        <Filename Value="ExportedFunctions.pas"/>
+        <Caret Line="187" Column="13" TopLine="172"/>
+      </Position>
+      <Position>
+        <Filename Value="ExportedFunctions.pas"/>
+        <Caret Line="48" Column="11" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="ExportedFunctions.pas"/>
+        <Caret Line="196" Column="36" TopLine="180"/>
+      </Position>
+      <Position>
+        <Filename Value="ExportedFunctions.pas"/>
+        <Caret Line="202" Column="23" TopLine="182"/>
+      </Position>
+      <Position>
+        <Filename Value="ExportedFunctions.pas"/>
+        <Caret Line="181" Column="44" TopLine="169"/>
+      </Position>
+      <Position>
+        <Filename Value="ExportedFunctions.pas"/>
+        <Caret Line="42" Column="40" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="ExportedFunctions.pas"/>
+        <Caret Line="190" Column="20" TopLine="183"/>
+      </Position>
+      <Position>
+        <Filename Value="ExportedFunctions.pas"/>
+        <Caret Line="220" Column="32" TopLine="199"/>
+      </Position>
+      <Position>
+        <Filename Value="ExportedFunctions.pas"/>
+        <Caret Line="43" Column="21" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="ExportedFunctions.pas"/>
+        <Caret Line="104" Column="100" TopLine="95"/>
+      </Position>
+      <Position>
+        <Filename Value="ExportedFunctions.pas"/>
+        <Caret Line="45" Column="68" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="ExportedFunctions.pas"/>
+        <Caret Line="114" Column="65" TopLine="100"/>
+      </Position>
+      <Position>
+        <Filename Value="ExportedFunctions.pas"/>
+        <Caret Line="119" Column="56" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="ExportedFunctions.pas"/>
+        <Caret Line="118" Column="47" TopLine="103"/>
+      </Position>
+      <Position>
+        <Filename Value="ExportedFunctions.pas"/>
+        <Caret Line="108" Column="19" TopLine="96"/>
+      </Position>
+      <Position>
+        <Filename Value="ExportedFunctions.pas"/>
+        <Caret Line="121" Column="52" TopLine="100"/>
+      </Position>
+      <Position>
+        <Filename Value="ExportedFunctions.pas"/>
+        <Caret Line="117" Column="63" TopLine="100"/>
+      </Position>
+      <Position>
+        <Filename Value="ExportedFunctions.pas"/>
+        <Caret Line="132" Column="96" TopLine="119"/>
+      </Position>
+      <Position>
+        <Filename Value="ExportedFunctions.pas"/>
+        <Caret Line="145" Column="124" TopLine="126"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
